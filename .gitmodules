@@ -1,3 +1,6 @@
+[submodule "Assets/runtime-inspector"]
+	path = Assets/runtime-inspector
+	url = https://github.com/kilomelo/runtime-inspector.git
 [submodule "Assets/imugui"]
 	path = Assets/imugui
 	url = https://github.com/kilomelo/imugui.git
